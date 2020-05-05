@@ -1,6 +1,6 @@
 ## Project 1 - Blog Post
 
-You can read my Medium Blog Post in [here](https://medium.com/@dzakyputra/the-best-countries-for-developers-to-work-in-ec162887f82f?source=friends_link&sk=bab44fcb676ff5ca50a46a65af263690).
+You can read my Medium Blog Post in [here](https://medium.com/@manendrashukla0/top-countries-to-get-a-job-as-a-developer-a9e8f88748c0).
 
 ### Libraries
 To be able to run this notebook, you need to install these libraries:
