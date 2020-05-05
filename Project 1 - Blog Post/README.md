@@ -9,7 +9,7 @@ To be able to run this notebook, you need to install these libraries:
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
 
 ### Introduction
-In this project, I did the analysis for Stack Overflow Survey Data 2019. This is a survey data which I took from their [website](https://insights.stackoverflow.com/survey). This data contains nearly 90,000 responses from over 170 countries. I used jupyter notebook to do the analysis which you can find in the `Data Science Blog Post.ipynb` file.
+In this project, I did the analysis for Stack Overflow Survey Data 2019. This is a survey data which I took from their [website](https://insights.stackoverflow.com/survey). This data contains nearly 90,000 responses from over 170 countries. I used jupyter notebook to do the analysis which you can find in the `Project 1 - A Blog post.ipynb` file.
 <br>
 <br>
 For this analysis, I focused in answering these three questions:
