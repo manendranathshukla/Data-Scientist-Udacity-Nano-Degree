@@ -1,4 +1,4 @@
-## 1 - Data Science Blog Post
+## Project 1 - Blog Post
 
 You can read my Medium Blog Post in [here](https://medium.com/@dzakyputra/the-best-countries-for-developers-to-work-in-ec162887f82f?source=friends_link&sk=bab44fcb676ff5ca50a46a65af263690).
 
