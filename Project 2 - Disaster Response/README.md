@@ -21,6 +21,9 @@ From the current working directory, run the following command: python data/proce
 Run `train_classifier.py`
 In the current working directory, create a folder called 'models' and save train_classifier.py in this.
 From the current working directory, run the following command: python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+
+## Download the Trained Model
+[Trained Model](https://drive.google.com/open?id=1UW-nmPvhnV9bHb1u4BjcFa6gYBSlIVq_)
 ### Run the web app
 Save the app folder in the current working directory.
 Run the following command in the app directory: python run.py
