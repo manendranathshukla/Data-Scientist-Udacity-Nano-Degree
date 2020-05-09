@@ -26,7 +26,8 @@ Save the app folder in the current working directory.
 Run the following command in the app directory: python run.py
 Go to http://0.0.0.0:3001/
 Screenshots
-Screenshot 1: App Front Page Screenshot 1
+!['Screenshot 1: App Front Page Screenshot 1']
+
 
 Screenshot 2: App Results Page Screenshot 2
 
