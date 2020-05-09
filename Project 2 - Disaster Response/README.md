@@ -29,7 +29,7 @@ Screenshots
 !['Screenshot 1: App Front Page Screenshot 1'](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/output1.png)
 
 
-Screenshot 2: App Results Page Screenshot 2
+![Screenshot 2: App Results Page Screenshot 2](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/output2.png)
 
 ## Warning
 The datasets included in this repository are very unbalanced, with very few positive examples for several message categories. In some cases, the proportion of positive examples is less than 5%, or even less than 1%. In such cases, even though the classifier accuracy is very high (since it tends to predict that the message does not fall into these categories), the classifier recall (i.e. the proportion of positive examples that were correctly labelled) tends to be very low. As a result, care should be taken if relying on the results of this app for decision making purposes.
