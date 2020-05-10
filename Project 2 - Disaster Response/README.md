@@ -50,9 +50,11 @@ Run the following command in the app directory:
 `python run.py`
 Go to http://0.0.0.0:3001/
 Screenshots:
-!['Screenshot 1: App Home Page']
+!['Screenshot 1: App Home Page'](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/image.png)
+
 
 !['Screenshot 2: App Front Page Screenshot 1'](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/output1.png)
+
 
 
 ![Screenshot 3: App Results Page Screenshot 2](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/output2.png)
