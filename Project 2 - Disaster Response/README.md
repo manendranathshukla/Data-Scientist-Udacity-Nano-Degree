@@ -46,9 +46,12 @@ Trained model size is high and unable to upload on github that's why I have uplo
 
 ## Run the web app
 Save the app folder in the current working directory.
+
 Run the following command in the app directory: 
 `python run.py`
+
 Go to http://0.0.0.0:3001/
+
 Screenshots:
 !['Screenshot 1: App Home Page'](https://github.com/manendranathshukla/Data-Scientist-Udacity-Nano-Degree/blob/master/Project%202%20-%20Disaster%20Response/image.png)
 
